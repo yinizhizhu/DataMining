@@ -1,0 +1,1 @@
+http://old.sebug.net/paper/books/scipydoc/scipy_intro.html
